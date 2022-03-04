@@ -1,0 +1,15 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    color:darkorange;
+}
+
+fieldset{
+    border: 3px solid yellow
+
+}
+label{
+    color: goldenrod;
+}

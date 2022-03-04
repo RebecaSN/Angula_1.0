@@ -1,0 +1,15 @@
+h1{
+    color:darkorange
+}
+fieldset{
+    border: 3px solid yellow
+
+}
+input{
+    color: goldenrod;
+    border-bottom: 2px solid salmon;
+    background-color: cornsilk;
+}
+strong{
+    color: darkorange;
+}
